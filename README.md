@@ -5,6 +5,6 @@ Actualmente estoy cursando la materia de paradigmas de programacion
 - Arranque en UTN en 2021
 - Juego al futbol
 
-![foto](imagen.jpg)
+![foto](f1.jpg)
 
 
